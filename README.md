@@ -10,8 +10,11 @@ I am eager to contribute my expertise and grow further in the field of Data Anal
 
 # About Me
 🎓 Education: Bachelor's Degree in Computer Science from BINUS University; Data Science Bootcamp at Hacktiv8.
+
 🤝 Collaboration Goals: Data analysis, advanced visualization, and building predictive data-driven solutions.
+
 🛠️ Skills: Python, SQL, Tableau, Data Visualization and Storytelling, Adobe Photoshop, Figma, Machine Learning.
+
 🚀 Passion: Delivering actionable insights through end-to-end data solutions, simplifying complex data, and empowering decision-making with innovative analytics.
 
 # Tech  Stack
