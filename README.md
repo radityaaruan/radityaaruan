@@ -17,6 +17,9 @@ I am eager to contribute my expertise and grow further in the field of Data Anal
 
 🚀 Passion: Delivering actionable insights through end-to-end data solutions, simplifying complex data, and empowering decision-making with innovative analytics.
 
+## Highlight Projects
+Segmentation Analysis for Airlines 📈: Conducted comprehensive data cleaning, exploratory analysis, and built a Tableau dashboard to showcase customer segmentation, and revenue drivers.
+
 ## Tech  Stack
  - Languages: Python, SQL
  - Libraries/Tools: Pandas, NumPy, Matplotlib, Seaborn
@@ -26,18 +29,3 @@ I am eager to contribute my expertise and grow further in the field of Data Anal
  - Other Skills: Excel, Adobe Photoshop, Figma
 
 
-
-<!--
-**radityaaruan/radityaaruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
