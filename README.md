@@ -8,7 +8,7 @@ My experience spans across machine learning, data exploration, and interactive d
 With a background in both Data Science and UI/UX design, I bring a unique blend of analytical and creative skills to my work. 
 I am eager to contribute my expertise and grow further in the field of Data Analytics, leveraging my skills to deliver meaningful insights and impactful results.
 
-# About Me
+## About Me
 🎓 Education: Bachelor's Degree in Computer Science from BINUS University; Data Science Bootcamp at Hacktiv8.
 
 🤝 Collaboration Goals: Data analysis, advanced visualization, and building predictive data-driven solutions.
@@ -17,7 +17,7 @@ I am eager to contribute my expertise and grow further in the field of Data Anal
 
 🚀 Passion: Delivering actionable insights through end-to-end data solutions, simplifying complex data, and empowering decision-making with innovative analytics.
 
-# Tech  Stack
+## Tech  Stack
  - Languages: Python, SQL
  - Libraries/Tools: Pandas, NumPy, Matplotlib, Seaborn
  - Databases: PostgresSQL, MySQL, MoongoDB, Google BigQuery, Elasticsearch
