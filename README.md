@@ -9,7 +9,7 @@ My experience spans across machine learning, data exploration, and interactive d
 With a background in both Data Science and UI/UX design, I bring a unique blend of analytical and creative skills to my work. 
 I am eager to contribute my expertise and grow further in the field of Data Analytics, leveraging my skills to deliver meaningful insights and impactful results.
 
------------------------------------------------------------------------------------------------
+
 # Tech  Stack
 
  - Languages: Python, SQL
