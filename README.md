@@ -1,31 +1,62 @@
-# Yohanes Raditya Wirawan Aruan - Data Analyst 
+# 🚀 Yohanes Raditya Wirawan Aruan - Data Analyst & Business Intelligence Enthusiast  
 
-Hi there, I'm Radit! 👋
+👋 Hi there, I'm **Radit!** Welcome to my GitHub profile!  
 
-Welcome to my GitHub profile!
-I am an entry-level Data Analyst with a strong foundation in uncovering trends, crafting impactful visualizations, and implementing data-driven solutions. 
-My experience spans across machine learning, data exploration, and interactive dashboard design to solve real-world challenges effectively.
-With a background in both Data Science and UI/UX design, I bring a unique blend of analytical and creative skills to my work. 
-I am eager to contribute my expertise and grow further in the field of Data Analytics, leveraging my skills to deliver meaningful insights and impactful results.
+I am a **Data Analyst** with a passion for turning raw data into **valuable insights** and **data-driven decisions**.  
+With a background in **Data Science & UI/UX Design**, I bring a unique mix of **analytical thinking** and **creative problem-solving** to every project.  
 
-## About Me
-🎓 Education: Bachelor's Degree in Computer Science from BINUS University; Data Science Bootcamp at Hacktiv8.
+📊 Whether it's **data exploration, machine learning, or building interactive dashboards**, I thrive on simplifying complex data to empower **business intelligence strategies**.  
 
-🤝 Collaboration Goals: Data analysis, advanced visualization, and building predictive data-driven solutions.
+## 🌟 About Me  
+🎓 **Education:**  
+- Bachelor's Degree in **Computer Science** - BINUS University  
+- **Data Science Bootcamp** at Hacktiv8  
 
-🛠️ Skills: Python, SQL, Tableau, Data Visualization and Storytelling, Adobe Photoshop, Figma, Machine Learning.
+🔎 **What I Do Best:**  
+✅ Data Analysis & Business Intelligence 📊  
+✅ Advanced Data Visualization & Storytelling 🎨  
+✅ Predictive Modeling & Machine Learning 🤖  
+✅ End-to-End Data Solutions & Workflow Automation 🚀  
 
-🚀 Passion: Delivering actionable insights through end-to-end data solutions, simplifying complex data, and empowering decision-making with innovative analytics.
+🛠 **Technical Stack & Tools:**  
+🔹 **Languages:** Python 🐍, SQL 🛢  
+🔹 **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+🔹 **Databases:** PostgreSQL, MySQL, MongoDB, Google BigQuery, Elasticsearch  
+🔹 **Data Visualization:** Tableau 📊, Kibana 📈  
+🔹 **Workflow Automation:** Apache Airflow ⚙️  
+🔹 **Other:** Excel, Figma, Adobe Photoshop  
 
-## Highlight Projects
-Segmentation Analysis for Airlines 📈: Conducted comprehensive data cleaning, exploratory analysis, and built a Tableau dashboard to showcase customer segmentation, and revenue drivers.
+---
 
-## Tech  Stack
- - Languages: Python, SQL
- - Libraries/Tools: Pandas, NumPy, Matplotlib, Seaborn
- - Databases: PostgresSQL, MySQL, MoongoDB, Google BigQuery, Elasticsearch
- - Visualization: Tableau, Kibana
- - Workflow Automation: Apache Airflow
- - Other Skills: Excel, Adobe Photoshop, Figma
+## 🚀 **Highlighted Projects**  
 
+### ✈️ **Airline Passenger Segmentation Analysis**  
+📌 **Goal:** Understanding customer segments & key revenue drivers for airlines  
+🔍 **What I Did:**  
+- Cleaned and preprocessed airline passenger data  
+- Performed exploratory data analysis (EDA) to uncover trends  
+- Built a **Tableau dashboard** to visualize customer segmentation  
+- Delivered **data-driven insights** to improve airline services  
 
+📊 **Check the interactive dashboard:**  
+🔗 [Tableau Visualization](https://public.tableau.com/app/profile/yohanes.raditya.wirawan.aruan/viz/AirlineSatisfaction_17375339929560/Dashboard1)  
+
+---
+
+## 🔥 **Why Work With Me?**  
+
+🚀 **Data-Driven Decision Making** – I don’t just analyze numbers; I turn them into **actionable insights**!  
+📊 **Business Intelligence Focus** – Helping businesses make **smarter, data-backed decisions**.  
+🎯 **Strong Analytical & Visualization Skills** – Transforming complex data into **clear, compelling visual stories**.  
+
+💡 **Looking for opportunities in Data Analytics, Business Intelligence, and Machine Learning**. Let’s collaborate and create impactful insights together!  
+
+---
+
+## 📬 **Let’s Connect!**  
+
+💼 **LinkedIn:** [linkedin.com/in/radityaruan](https://linkedin.com/in/radityaruan)  
+📧 **Email:** radityaruan@gmail.com  
+🌐 **Portfolio:** [Coming Soon!]  
+
+✨ **Let’s make data work for better decisions!** 🚀  
